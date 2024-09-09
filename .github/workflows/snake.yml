@@ -1,0 +1,26 @@
+name: Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at midnight UTC every day
+
+jobs:
+  update-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v2
+        with:
+          github_user: rashidarudino
+          svg_out: dist/github-snake.svg
+
+      - name: Commit & push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: "GitHub Actions"
+          author_email: "actions@github.com"
+          message: "Update snake"
+          add: "dist/github-snake.svg"
