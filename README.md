@@ -13,7 +13,7 @@ View my portfolio here: https://www.toycube.shop/
     😄 Pronouns: She/Her  
     ⚡ Fun fact: I once tried to code on my pc via my mobile remote. Spoiler: It didn’t end well!
 
-## Quote of the Day
+## Quote for Now
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote)  
 
 ## My Favorites
