@@ -20,15 +20,15 @@ View my portfolio here: https://www.toycube.shop/
 <table>
   <tr>
     <td>
-      Favourite Drink: Bubble Tea
+      Bubble Tea
       <img src="https://github.com/user-attachments/assets/429bdeb3-2130-4a45-972d-ec30a882f3fe" alt="bubble-tea" width="150"/>
     </td>
     <td>
-      Favourite Animal: Penguins
+      Penguins
       <img src="https://github.com/user-attachments/assets/eb173be3-c499-4699-8549-381fe9900582" alt="penguin" width="150"/>
     </td>
     <td>
-      Favourite colour: Relaxing blue
+      Relaxing blue
       <img src="https://github.com/user-attachments/assets/ff789cbc-f325-4355-a7f9-9e18cb3998b6" alt="penguin" width="150"/>
     </td>
   </tr>
