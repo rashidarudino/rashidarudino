@@ -1,6 +1,5 @@
-## Hi there 👋
-Welcome to my corner of the digital universe! 🌟  
-**About Me:**  
+![Hi there!](https://github.com/user-attachments/assets/48709d99-8461-4ddd-9d78-35d14d1643a7)
+## About Me
 2024 Computer Science graduate and Cluey Tutor since 2021, passionate about software and firmware programming. 
 I enjoy exploring new frameworks and libraries used to build UIs. While I've explored PowerApps and tinkered with Platform IO for C++ coding on MCUs, my passion truly lies in building apps with React. There's nothing quite like seeing hot-reloads instantly update my media changes!  
 
