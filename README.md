@@ -32,7 +32,7 @@ View my portfolio here: https://www.toycube.shop/
   </tr>
 </table>
 
-
+## GitHub Highlights
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashidarudino&show_icons=true&hide_title=true&count_private=true&hide=prs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidarudino&hide=html&layout=compact)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=rashidarudino&row=1&column=7)
