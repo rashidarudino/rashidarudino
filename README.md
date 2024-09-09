@@ -14,3 +14,9 @@ View my portfolio here: https://www.toycube.shop/
     ⚡ Fun fact: I once tried to code on my pc via my mobile remote. Spoiler: It didn’t end well!  
 
 Let’s create something amazing together! 🚀
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rashidarudino/rashidarudino/out/github-snake.svg" />
+</picture>
