@@ -1,8 +1,8 @@
 ## Hi there 👋
 Welcome to my corner of the digital universe! 🌟
 I'm just your recent fellow Computer Science graduate and Cluey Tutor since 2021, passionate about software and firmware programming. 
-I enjoy exploring new frameworks and libraries used to build UIs. While I've explored PowerApps and tinkered with Platform IO for C++ coding on MCUs, my passion truly lies in building apps with React. There's nothing quite like seeing hot-reloads instantly update my media changes!
-  
+I enjoy exploring new frameworks and libraries used to build UIs. While I've explored PowerApps and tinkered with Platform IO for C++ coding on MCUs, my passion truly lies in building apps with React. There's nothing quite like seeing hot-reloads instantly update my media changes!  
+
 View my portfolio here: https://www.toycube.shop/  
     🔭 I’m currently working on making tech more playful by creating tutorials at [Toycube](http://www.toycube.com.au/).  
     🌱 I’m currently learning how to turn code into magic (or at least trying to).  
@@ -12,9 +12,11 @@ View my portfolio here: https://www.toycube.shop/
     📫 How to reach me: Shoot me a message, I promise I'm friendly!  
     😄 Pronouns: She/Her  
     ⚡ Fun fact: I once tried to code on my pc via my mobile remote. Spoiler: It didn’t end well!
-    Let’s create something amazing together! 🚀
-## My Favorites
 
+## Quote of the Day
+![Quote](https://github-readme-quotes-bay.vercel.app/quote)  
+
+## My Favorites
 <table>
   <tr>
     <td>
@@ -32,8 +34,13 @@ View my portfolio here: https://www.toycube.shop/
   </tr>
 </table>
 
-## GitHub Highlights
+## GitHub Highlights  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashidarudino&show_icons=true&hide_title=true&count_private=true&hide=prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidarudino&hide=html&layout=compact)
-![Trophy](https://github-profile-trophy.vercel.app/?username=rashidarudino&row=1&column=7)
-![Snake animation](https://raw.githubusercontent.com/rashidarudino/rashidarudino/output/github-contribution-grid-snake.svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidarudino&hide=html&layout=compact)  
+![Trophy](https://github-profile-trophy.vercel.app/?username=rashidarudino&row=1&column=7)  
+![Snake animation](https://raw.githubusercontent.com/rashidarudino/rashidarudino/output/github-contribution-grid-snake.svg) 
+
+Snake animation: https://github.com/Platane/snk  
+Github stats, top languages: https://github.com/anuraghazra/github-readme-stats  
+Profile trophy: https://github.com/ryo-ma/github-profile-trophy  
+Quotes: https://github.com/shravan20/github-readme-quotes
