@@ -15,4 +15,7 @@ View my portfolio here: https://www.toycube.shop/
 
 Let’s create something amazing together! 🚀
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashidarudino&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidarudino&hide=html&layout=compact)
+![Trophy](https://github-profile-trophy.vercel.app/?username=rashidarudino&row=1&column=7)
 ![Snake animation](https://raw.githubusercontent.com/rashidarudino/rashidarudino/output/github-contribution-grid-snake.svg)
