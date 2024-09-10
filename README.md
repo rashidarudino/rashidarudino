@@ -11,6 +11,7 @@ There's nothing quite like seeing hot-reloads instantly update my changes!
 🕹️ Main site: https://www.toycube.shop/  
 
 🍁 Blog: http://www.toycube.com.au. 
+Built on astro, svelte, deployed with apache2 on a rpi5 computer. Sometimes I boot it up when I'm in the mood to blog. C:
 
 💭💬🗯️ How to reach me: shoot me a message via email or on the contact me section of my site; I promise I'm friendly!  
 
