@@ -19,7 +19,7 @@ Built on astro, svelte, deployed with apache2 on a rpi5 computer. Sometimes I bo
 
 <sub>💭💬🗯️ How to reach me: shoot me a message via email or on the contact me section of my site; I promise I'm friendly!</sub>  
 
-<sub>🥧 Side fact: I love to cook with a coffe cert from CBD college and a Certificate II in Kitchen Operations.</sub>
+<sub>🥧 Side fact: I love to cook with a coffee certification from CBD college and a Certificate II in Kitchen Operations.</sub>
 </sub>
 
 ## Quote for Now
