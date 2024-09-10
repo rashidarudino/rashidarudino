@@ -6,17 +6,21 @@
 Although I've explored PowerApps and tinkered with MCUs using c++ and platformio, I really enjoy creating frontend websites and apps using frameworks like svelte, react and next.  
 
 There's nothing quite like seeing hot-reloads instantly update my changes!  
+<sub>
 
-📊📉📈 WIP: sensor datalogger hosted on an esp32 c++ server sending data through WebSocket to the react client.  
 
-🕹️ Main site: https://www.toycube.shop/  
+📊✨ WIP ✨: sensor datalogger hosted on an esp32 c++ server sending data through WebSocket to the react client.  
+</sub>
 
-🍁 Personal Blog: http://www.toycube.com.au. 
-Built on astro, svelte, deployed with apache2 on a rpi5 computer. Sometimes I boot it up when I'm in the mood to blog and share my posts. C:
+🕹️ <sub>Main site: https://www.toycube.shop/.</sub>  
+<sub>🍁 Personal Blog: http://www.toycube.com.au.  
+Built on astro, svelte, deployed with apache2 on a rpi5 computer. Sometimes I boot it up when I'm in the mood to blog and share my posts. C:</sub>
 
-💭💬🗯️ How to reach me: shoot me a message via email or on the contact me section of my site; I promise I'm friendly!  
+<sub>💭💬🗯️ How to reach me: shoot me a message via email or on the contact me section of my site; I promise I'm friendly!</sub>  
 
-🥧 Side fact: I love to cook with a coffe cert from CBD college and a Certificate II in Kitchen Operations.
+<sub>🥧 Side fact: I love to cook with a coffe cert from CBD college and a Certificate II in Kitchen Operations.</sub>
+</sub>
+
 ## Quote for Now
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote)  
 
