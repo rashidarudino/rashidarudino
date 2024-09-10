@@ -1,6 +1,7 @@
 ![Hi there!](https://github.com/user-attachments/assets/48709d99-8461-4ddd-9d78-35d14d1643a7)
-## About Me
-Fullstack developer | CS Grad | Online Tutor | Digital Art Hobbyist
+
+## About Me 
+<sub>Fullstack Dev · CS Grad · Online Tutor · Digital Art Hobbyist</sub>
 
 Although I've explored PowerApps and tinkered with MCUs using c++ and platformio, I really enjoy creating frontend websites and apps using frameworks like svelte, react and next.  
 
@@ -15,6 +16,7 @@ Built on astro, svelte, deployed with apache2 on a rpi5 computer. Sometimes I bo
 
 💭💬🗯️ How to reach me: shoot me a message via email or on the contact me section of my site; I promise I'm friendly!  
 
+🥧 Side fact: I love to cook with a coffe cert from CBD college and a Certificate II in Kitchen Operations.
 ## Quote for Now
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote)  
 
