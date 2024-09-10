@@ -6,6 +6,7 @@ I enjoy exploring new frameworks and libraries used to build UIs. While I've exp
 📫 How to reach me: Shoot me a message, I promise I'm friendly!  
 😄 Pronouns: She/Her  
 🕹️ View my site here: https://www.toycube.shop/  
+🍁 And my blog here: http://www.toycube.com.au
 
 ## Quote for Now
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote)  
