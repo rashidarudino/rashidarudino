@@ -1,6 +1,6 @@
 ![Hi there!](https://github.com/user-attachments/assets/48709d99-8461-4ddd-9d78-35d14d1643a7)
 ## About Me
-Fullstack developer.
+Fullstack developer | CS Grad | Online Maths Tutor
 
 Although I've explored PowerApps and tinkered with MCUs using c++ and platformio, I really enjoy creating frontend websites and apps using frameworks like svelte, react and next. 
 There's nothing quite like seeing hot-reloads instantly update my changes!  
