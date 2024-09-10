@@ -3,6 +3,7 @@
 ## About Me 
 <sub>Fullstack Dev · CS Grad · Online Tutor · Digital Art Hobbyist</sub>
 
+I want to build things that automate and spark nostalgia!  
 Although I've explored PowerApps and tinkered with MCUs using c++ and platformio, I really enjoy creating frontend websites and apps using frameworks like svelte, react and next.  
 
 There's nothing quite like seeing hot-reloads instantly update my changes!  
