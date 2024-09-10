@@ -1,13 +1,15 @@
 ![Hi there!](https://github.com/user-attachments/assets/48709d99-8461-4ddd-9d78-35d14d1643a7)
 ## About Me
-2024 Computer Science graduate and Cluey Tutor since 2021, passionate about software and firmware programming. 
-I enjoy exploring new frameworks and libraries used to build UIs. While I've explored PowerApps and tinkered with Platform IO for C++ coding on MCUs, my passion truly lies in building apps with React. There's nothing quite like seeing hot-reloads instantly update my media changes!  
+Fullstack developer.
 
-📫 How to reach me: Shoot me a message, I promise I'm friendly!  
+Although I've explored PowerApps and tinkered with MCUs using c++ and platformio, I really enjoy creating frontend websites and apps using frameworks like svelte, react and next. 
+There's nothing quite like seeing hot-reloads instantly update my changes!  
+📊📉📈Currently building a datalogger using an esp32, websockets and a react client.  
+
 😄 Pronouns: She/Her  
-🕹️ View my site here: https://www.toycube.shop/  
-🍁 And my blog here: http://www.toycube.com.au
-
+🕹️ Main site: https://www.toycube.shop/  
+🍁 Blog: http://www.toycube.com.au
+📫 How to reach me: Shoot me a message via email or on the contact me section of my site, I promise I'm friendly!  
 ## Quote for Now
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote)  
 
