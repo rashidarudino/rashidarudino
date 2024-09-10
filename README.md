@@ -4,12 +4,12 @@ Fullstack developer | CS Grad | Online Maths Tutor
 
 Although I've explored PowerApps and tinkered with MCUs using c++ and platformio, I really enjoy creating frontend websites and apps using frameworks like svelte, react and next. 
 There's nothing quite like seeing hot-reloads instantly update my changes!  
-📊📉📈Currently building a datalogger using an esp32, websockets and a react client.  
 
-😄 Pronouns: She/Her  
+📊📉📈 WIP: sensor datalogger hosted on an esp32 c++ server sending data through WebSocket to the react client.
 🕹️ Main site: https://www.toycube.shop/  
 🍁 Blog: http://www.toycube.com.au
-📫 How to reach me: Shoot me a message via email or on the contact me section of my site, I promise I'm friendly!  
+💭💬🗯️ How to reach me: Shoot me a message via email or on the contact me section of my site, I promise I'm friendly!  
+
 ## Quote for Now
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote)  
 
