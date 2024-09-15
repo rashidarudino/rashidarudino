@@ -1,21 +1,19 @@
 ![Hi there!](https://github.com/user-attachments/assets/48709d99-8461-4ddd-9d78-35d14d1643a7)
 
 ## About Me 
-<sub>Fullstack Dev · CS Grad · Online Tutor · Digital Art Hobbyist</sub>
+<sub>Fullstack Dev · CS Grad · Online Tutor · Digital Artist</sub>
 
-I want to build things that automate and spark nostalgia!  
-Although I've explored PowerApps and tinkered with MCUs using c++ and platformio, I really enjoy creating frontend websites and apps using frameworks like svelte, react and next.  
-
-There's nothing quite like seeing hot-reloads instantly update my changes!  
+I want to build things that automate and spark nostalgia! Although I've explored PowerApps and tinkered with MCUs using C++ and Platformio, I really enjoy creating frontend websites and apps using frameworks like Svelte, React and Next. There's nothing quite like seeing hot-reloads!  
 <sub>
 
+Currently I am learning React Three Fiber to create ✨sparkly 3D sites✨.  
+📈📊WIP: sensor datalogger hosted on an esp32 c++ server sending data through WebSocket to the react client.  
 
-📊✨ WIP ✨: sensor datalogger hosted on an esp32 c++ server sending data through WebSocket to the react client.  
-</sub>
 
-🕹️ <sub>Main site: https://www.toycube.shop/.</sub>  
-<sub>🍁 Personal Blog: http://www.toycube.com.au.  
-Built on astro, svelte, deployed with apache2 on a rpi5 computer. Sometimes I boot it up when I'm in the mood to blog and share my posts. C:</sub>
+🕹️ <sub>Main site: [https://www.toycube.shop/](https://www.toycube.shop/).</sub>  
+👀 <sub>Alternate site: https://rashidarudino.netlify.app/</sub>  
+🫥 <sub>Personal Blog: http://www.toycube.com.au.
+Built on Astro, Svelte, deployed with Apache2 on a RPi5 computer. I boot it up when I'm in the mood to blog and share my posts. C:</sub>
 
 <sub>💭💬🗯️ How to reach me: shoot me a message via email or on the contact me section of my site; I promise I'm friendly!</sub>  
 
