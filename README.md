@@ -9,12 +9,6 @@ I want to build things that automate and spark nostalgia! Although I've explored
 Currently I am learning React Three Fiber to create ✨sparkly 3D sites✨.  
 📈📊WIP: sensor datalogger hosted on an esp32 c++ server sending data through WebSocket to the react client.  
 
-
-🕹️ <sub>Main site: [https://www.toycube.shop/](https://www.toycube.shop/).</sub>  
-👀 <sub>Alternate site: https://rashidarudino.netlify.app/</sub>  
-🫥 <sub>Personal Blog: http://www.toycube.com.au.
-Built on Astro, Svelte, deployed with Apache2 on a RPi5 computer. I boot it up when I'm in the mood to blog and share my posts. C:</sub>
-
 <sub>💭💬🗯️ How to reach me: shoot me a message via email or on the contact me section of my site; I promise I'm friendly!</sub>  
 
 <sub>🥧 Side fact: I love to cook with a coffee certification from CBD college and a Certificate II in Kitchen Operations.</sub>
