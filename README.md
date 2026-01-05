@@ -36,7 +36,7 @@ Currently I am learning React Three Fiber to create ✨sparkly 3D sites✨.
 </table>
 
 ## GitHub Highlights  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashidarudino&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashidarudino)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidarudino&hide=html&layout=compact)  
 ![Trophy](https://github-profile-trophy.vercel.app/?username=rashidarudino&row=1&column=7)  
 ![Snake animation](https://raw.githubusercontent.com/rashidarudino/rashidarudino/output/github-contribution-grid-snake.svg) 
